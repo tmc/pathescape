@@ -1,0 +1,6 @@
+COMMAND DOCUMENTATION
+
+    Program pathescape escapes stdin so it can be safely used in a URL path
+    segment.
+
+
